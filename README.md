@@ -1,7 +1,10 @@
-![6](https://github.com/cristianilisei96/to-do-list-app-Laravel/assets/57447097/1a81c325-1b36-4fb8-9afb-9644ef3a3f0a)
+![6](https://github.com/cristianilisei96/to-do-list-app-Laravel/assets/57447097/937a56d7-aa00-4bf6-9da0-2e9957d589e6)
 ![Uploading 5.png…]()
 ![Uploading 4.png…]()
 ![Uploading 3.png…]()
+![Uploading 2.png…]()
+![Uploading 1.png…]()
+
 # to-do-list-app-Laravel
 
 # create an "todo" mysql database
@@ -13,6 +16,3 @@
 # php artisan migration:refresh --seed
 
 # Enjoy my work!
-
-![Uploading 2.png…]()
-![Uploading 1.png…]()

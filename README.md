@@ -116,3 +116,23 @@ npm run dev
 ![PHP](https://img.shields.io/badge/PHP-8.1-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+## 📘 About the Project
+
+This project was built as part of my Laravel learning journey, with a focus on writing clean code, following best practices, and understanding how a real CRUD application should be structured.  
+It demonstrates authentication, authorization, form validation, Eloquent relationships, Blade templating, and a clean Bootstrap UI.
+
+The goal was to create a simple but complete To‑Do management system that feels intuitive, responsive, and pleasant to use.
+
+## 🔮 Future Improvements
+
+Here are some features I plan to add in future updates:
+
+- Add due dates and reminders for tasks
+- Add categories or tags for better organization
+- Add drag‑and‑drop sorting for tasks
+- Add search and filtering options
+- Add dark mode
+- Add API endpoints (Laravel API Resources)
+- Add pagination for large task lists
+- Add profile page and user settings

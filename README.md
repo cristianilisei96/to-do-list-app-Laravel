@@ -112,11 +112,6 @@ php artisan serve
 npm run dev
 ```
 
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
-![PHP](https://img.shields.io/badge/PHP-8.1-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ## 📘 About the Project
 
 This project was built as part of my Laravel learning journey, with a focus on writing clean code, following best practices, and understanding how a real CRUD application should be structured.  
@@ -136,3 +131,8 @@ Here are some features I plan to add in future updates:
 - Add API endpoints (Laravel API Resources)
 - Add pagination for large task lists
 - Add profile page and user settings
+
+![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
